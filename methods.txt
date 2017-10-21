@@ -1,0 +1,4 @@
+singleton_class
+ancestors
+included_modules
+
